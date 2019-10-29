@@ -1,0 +1,17 @@
+{
+    "name": "admin/lara_auto",
+    "authors": [
+        {
+            "name": "3A632009",
+            "email": "3a632009@student.ncut.edu.tw"
+        }
+    ],
+    "require": {},
+    ,
+    "autoload": {
+        "psr-4": {
+            "Demo\\": "./src/Demo"
+        }
+    }
+
+}
